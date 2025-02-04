@@ -44,12 +44,21 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">GitHub Analytics:</h3>
-<p align="center">
-<a href="https://github.com/rakinduathukorala">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakinduathukorala&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakinduathukorala&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakinduathukorala&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rakinduathukorala&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
